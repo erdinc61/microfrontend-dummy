@@ -28,6 +28,7 @@ export default defineConfig({
             './card': './src/components/UI/card.tsx',
             './tooltip': './src/components/UI/tooltip.tsx',
             './modal': './src/components/UI/modal.tsx',
+            './checkbox': './src/components/UI/checkbox.tsx',
           },
           shared: ['react', 'react-dom'],
         }),

@@ -32,7 +32,7 @@ const Gridmap: React.FC = () => {
           }}
         >
           <p>{planet.resourceType}</p>
-          <p>Difficulty: {planet.movementDifficulty}</p>
+          <p>Id: {planet.planetid.slice(3,7)}</p>
         </div>
       ))}
     </div>

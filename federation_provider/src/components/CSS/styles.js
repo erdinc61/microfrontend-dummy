@@ -5,7 +5,6 @@ body {
     padding: 0;
     box-sizing: border-box;
     background-color: #343a40;
-    color: #f8f9fa;
 }
 
 .App {
