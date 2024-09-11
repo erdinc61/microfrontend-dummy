@@ -1,0 +1,15 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr); /* Gleiche Anzahl von Spalten wie bei Robotern */
+  grid-gap: 20px; /* Stelle sicher, dass der Abstand groß genug ist */
+}
+
+.grid-item {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  box-sizing: border-box;
+  height: 100px; /* Feste Höhe */
+  width: 100px;  /* Feste Breite */
+  overflow: hidden;
+}

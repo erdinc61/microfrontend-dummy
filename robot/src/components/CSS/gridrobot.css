@@ -1,0 +1,44 @@
+.robot-container {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr); /* Same grid size as the planets */
+  grid-gap: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.robot-item {
+  position: relative; /* Make this the positioning context for the players list */
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  box-sizing: border-box;
+  height: 100px;
+  width: 100px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.robot-icon {
+  font-size: 2rem;
+}
+
+.robot-players-list {
+  display: none;
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+}
+
+.robot-item:hover .robot-players-list {
+  display: block; /* Show the list on hover */
+}

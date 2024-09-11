@@ -1,0 +1,898 @@
+[
+    {
+        "planetid": "13a16a21-2aad-4770-af21-f93cca88b28f",
+        "gameWordlId": "7dc8d065-d683-4c82-827f-4c6c485f1c0f",
+        "movementDifficulty": 1,
+        "resourceType": "Eisen",
+        "position": 0
+    },
+    {
+        "planetid": "881e8746-fcbe-4c93-af90-498d863bcca9",
+        "gameWordlId": "c0a82d43-b9d1-4ac5-8571-154973cbe503",
+        "movementDifficulty": 2,
+        "resourceType": "Kupfer",
+        "position": 1
+    },
+    {
+        "planetid": "ae4642cd-408c-49df-8ca4-1838b37143cf",
+        "gameWordlId": "c0618db2-6fbe-4b22-afb4-63ce57b0b692",
+        "movementDifficulty": 3,
+        "resourceType": "Kupfer",
+        "position": 2
+    },
+    {
+        "planetid": "89ab2e3e-b650-4c3d-a43f-b323f0f4542c",
+        "gameWordlId": "32072e54-6508-4ebb-a2f0-a993b438a311",
+        "movementDifficulty": 4,
+        "resourceType": "Silber",
+        "position": 3
+    },
+    {
+        "planetid": "371bf3a9-da93-42d2-94f6-71ee380bf13d",
+        "gameWordlId": "824ab5d1-07be-4185-9cae-e7e50e8f5144",
+        "movementDifficulty": 5,
+        "resourceType": "Kupfer",
+        "position": 4
+    },
+    {
+        "planetid": "4ead58f8-6ce2-4d6e-8779-c08236cea24c",
+        "gameWordlId": "a32b9708-32ca-41fa-8b14-f1e14f7be2ed",
+        "movementDifficulty": 6,
+        "resourceType": "Silber",
+        "position": 5
+    },
+    {
+        "planetid": "80231f5c-21c9-4ce0-9f3a-7e4fa425cb34",
+        "gameWordlId": "ad168970-1185-4cb1-8155-6eac5cbdecc1",
+        "movementDifficulty": 7,
+        "resourceType": "Silber",
+        "position": 6
+    },
+    {
+        "planetid": "8ae35b13-3a7c-4f27-a7d4-669a9e092de1",
+        "gameWordlId": "9446a079-cc21-451c-a78e-1eb44a7c523a",
+        "movementDifficulty": 8,
+        "resourceType": "Kupfer",
+        "position": 7
+    },
+    {
+        "planetid": "f8ee277a-c548-4f43-a16d-9e794c68b1f7",
+        "gameWordlId": "a0dbbc6c-0d3d-404c-b1b8-26a1831ad6bd",
+        "movementDifficulty": 9,
+        "resourceType": "Kupfer",
+        "position": 8
+    },
+    {
+        "planetid": "45d17a95-abad-4af8-8af9-3762b1458808",
+        "gameWordlId": "92a83a4b-288e-4035-a3f8-e48f67548118",
+        "movementDifficulty": 10,
+        "resourceType": "Silber",
+        "position": 9
+    },
+    {
+        "planetid": "a19f798b-5386-4939-a8a8-f5df6c2e8ca2",
+        "gameWordlId": "88ff00ec-0025-4d3c-acbe-16b138d93a12",
+        "movementDifficulty": 11,
+        "resourceType": "Gold",
+        "position": 10
+    },
+    {
+        "planetid": "91da763e-76a3-44a1-9a6a-92f0c43accfe",
+        "gameWordlId": "ff0a468e-ee3a-40d7-89bd-fb9c9729005a",
+        "movementDifficulty": 12,
+        "resourceType": "Eisen",
+        "position": 11
+    },
+    {
+        "planetid": "be071be3-098e-44d8-a5d5-6b90bbb6aadf",
+        "gameWordlId": "07334ab4-46bd-45cf-98de-e9acfdf3b34c",
+        "movementDifficulty": 13,
+        "resourceType": "Silber",
+        "position": 12
+    },
+    {
+        "planetid": "2e384074-c808-44a3-9c8c-cba43ac7b629",
+        "gameWordlId": "57b99c74-a18a-4e53-93a6-d7019fd8f8d7",
+        "movementDifficulty": 14,
+        "resourceType": "Gold",
+        "position": 13
+    },
+    {
+        "planetid": "9ad7972a-45d4-4d32-9efb-3518d81b5e3e",
+        "gameWordlId": "57ef4862-c42c-488b-9cb2-b41768dafa4c",
+        "movementDifficulty": 15,
+        "resourceType": "Kupfer",
+        "position": 14
+    },
+    {
+        "planetid": "dcb414b7-c71b-42a6-9b30-c78167c6b850",
+        "gameWordlId": "c22e314e-e9d9-433f-85bd-f35fdb68fed4",
+        "movementDifficulty": 16,
+        "resourceType": "Eisen",
+        "position": 15
+    },
+    {
+        "planetid": "d1e99519-6f39-49ad-a135-9bf5a0c22348",
+        "gameWordlId": "63b5f5fe-5e02-49d1-af8b-f8faadaf7d95",
+        "movementDifficulty": 17,
+        "resourceType": "Kupfer",
+        "position": 16
+    },
+    {
+        "planetid": "3e84c350-0ca2-4bd5-bcfb-0af0de0bb66a",
+        "gameWordlId": "c10428ba-4b94-4a5f-a88d-83516f3eb328",
+        "movementDifficulty": 18,
+        "resourceType": "Silber",
+        "position": 17
+    },
+    {
+        "planetid": "16a34ccf-89d5-4630-91df-51c0ca9cc4fe",
+        "gameWordlId": "b555627a-d6c8-4a9b-9c0b-19e4f1eb2f6d",
+        "movementDifficulty": 19,
+        "resourceType": "Eisen",
+        "position": 18
+    },
+    {
+        "planetid": "737ff0b3-d10e-4780-ab5b-8ab34bd4f81b",
+        "gameWordlId": "9e939bf9-13c1-466d-8b55-d3f7af76641b",
+        "movementDifficulty": 20,
+        "resourceType": "Eisen",
+        "position": 19
+    },
+    {
+        "planetid": "9f92088b-e970-43f3-90db-ed623e668a96",
+        "gameWordlId": "3705d39c-87a3-425c-8706-280ca27d357e",
+        "movementDifficulty": 21,
+        "resourceType": "Kupfer",
+        "position": 20
+    },
+    {
+        "planetid": "c71ad243-a531-428a-aa8c-f5b19ebf923c",
+        "gameWordlId": "a1d1ddc4-cee5-4309-9666-eec6bc411d89",
+        "movementDifficulty": 22,
+        "resourceType": "Gold",
+        "position": 21
+    },
+    {
+        "planetid": "dd7bdba3-50fc-40e9-b84a-9eb11fbbc6a8",
+        "gameWordlId": "e66117f5-a9fe-4ff3-a65a-a20eed79255f",
+        "movementDifficulty": 23,
+        "resourceType": "Kupfer",
+        "position": 22
+    },
+    {
+        "planetid": "5b0ce3ef-65e2-4ac1-a611-4799b59cd621",
+        "gameWordlId": "82fb5200-f964-4bc1-a6e6-026b37113a36",
+        "movementDifficulty": 24,
+        "resourceType": "Silber",
+        "position": 23
+    },
+    {
+        "planetid": "481053e5-4c45-4b78-ad1d-46ecdccc352b",
+        "gameWordlId": "180f1d9d-e8a4-4360-9355-1b61f05552e8",
+        "movementDifficulty": 25,
+        "resourceType": "Eisen",
+        "position": 24
+    },
+    {
+        "planetid": "57b7d28b-c498-43aa-b682-1b108dd4b333",
+        "gameWordlId": "bd2fc77c-d474-48bf-9f13-afdecf8840b0",
+        "movementDifficulty": 26,
+        "resourceType": "Eisen",
+        "position": 25
+    },
+    {
+        "planetid": "a8265ea5-dafe-4f59-95a4-c6fdf26b25b9",
+        "gameWordlId": "96c2f71c-9f86-478f-b587-81e6a682ee24",
+        "movementDifficulty": 27,
+        "resourceType": "Kupfer",
+        "position": 26
+    },
+    {
+        "planetid": "2b98d9cf-c2ff-41be-84e3-ed2353608c2b",
+        "gameWordlId": "a71f97ff-ab30-4014-ad6f-3472ae37cec2",
+        "movementDifficulty": 28,
+        "resourceType": "Eisen",
+        "position": 27
+    },
+    {
+        "planetid": "3e16bce3-98db-4146-a0e9-f025980c5f80",
+        "gameWordlId": "e785fa7b-0b91-47cc-b4f1-58e50728f221",
+        "movementDifficulty": 29,
+        "resourceType": "Silber",
+        "position": 28
+    },
+    {
+        "planetid": "496250b9-c315-442e-a8d8-496342de0ced",
+        "gameWordlId": "6cb334b0-f861-454f-87ad-e36d08ab24cb",
+        "movementDifficulty": 30,
+        "resourceType": "Silber",
+        "position": 29
+    },
+    {
+        "planetid": "11a1b946-69c5-479f-bd75-1b208c01b56c",
+        "gameWordlId": "de78e84b-af3e-4267-ac3d-9bf811956f00",
+        "movementDifficulty": 31,
+        "resourceType": "Eisen",
+        "position": 30
+    },
+    {
+        "planetid": "44dfaec9-ca57-4be2-921c-5218d72e498a",
+        "gameWordlId": "5f0cceb0-f6bf-44c4-affe-9448d2d22692",
+        "movementDifficulty": 32,
+        "resourceType": "Kupfer",
+        "position": 31
+    },
+    {
+        "planetid": "1a26128c-2af3-4904-8360-2c0541fdecbf",
+        "gameWordlId": "655007a3-efec-466b-b68a-ee7e241acae5",
+        "movementDifficulty": 33,
+        "resourceType": "Kupfer",
+        "position": 32
+    },
+    {
+        "planetid": "36f5abd6-626b-4016-a851-52dc90083622",
+        "gameWordlId": "2b7f56d3-56b1-4939-94a4-0496c2f39d3c",
+        "movementDifficulty": 34,
+        "resourceType": "Gold",
+        "position": 33
+    },
+    {
+        "planetid": "4e60ab77-6042-4d10-9fe6-8730f6f9b168",
+        "gameWordlId": "efce283b-627f-4db6-85f4-7bddff6c0186",
+        "movementDifficulty": 35,
+        "resourceType": "Silber",
+        "position": 34
+    },
+    {
+        "planetid": "dfcf462b-7848-47b3-a643-f494c5e9b97e",
+        "gameWordlId": "8fc1c83a-1492-4983-af35-3edaf001dfa5",
+        "movementDifficulty": 36,
+        "resourceType": "Gold",
+        "position": 35
+    },
+    {
+        "planetid": "f5b4862e-ee86-413a-b6e2-e7b28722121d",
+        "gameWordlId": "b38ef9ba-0c11-4c16-9e5b-e57f69a9e93b",
+        "movementDifficulty": 37,
+        "resourceType": "Kupfer",
+        "position": 36
+    },
+    {
+        "planetid": "a31de413-266d-40e6-9ef0-1ff0279af9ef",
+        "gameWordlId": "9369f0c2-b453-4975-aab7-b043cb9a0d8f",
+        "movementDifficulty": 38,
+        "resourceType": "Kupfer",
+        "position": 37
+    },
+    {
+        "planetid": "c3930c4c-7816-4b25-b8d7-3a5ed26996a9",
+        "gameWordlId": "5cf7bafa-f8a4-4ef7-a3ad-589d99c662cd",
+        "movementDifficulty": 39,
+        "resourceType": "Kupfer",
+        "position": 38
+    },
+    {
+        "planetid": "326fe11c-c04d-471f-899f-b8dbad555a0e",
+        "gameWordlId": "23fb35a8-e4da-424a-9368-03cf35688515",
+        "movementDifficulty": 40,
+        "resourceType": "Gold",
+        "position": 39
+    },
+    {
+        "planetid": "32aeeff9-2cff-4751-a114-3b392ab77f5a",
+        "gameWordlId": "a6dd1932-868a-43b7-ba98-28d4c36feb9c",
+        "movementDifficulty": 41,
+        "resourceType": "Gold",
+        "position": 40
+    },
+    {
+        "planetid": "a7d6c4c3-7299-433d-b577-2f57b900b4ad",
+        "gameWordlId": "b6fa0c18-56f1-4b6b-b94e-8b5a82389432",
+        "movementDifficulty": 42,
+        "resourceType": "Gold",
+        "position": 41
+    },
+    {
+        "planetid": "2e3ab98f-bcea-48f7-a199-c4c7600ef07e",
+        "gameWordlId": "83dc6fbc-52d6-4073-9bfb-f5b544fa232b",
+        "movementDifficulty": 43,
+        "resourceType": "Kupfer",
+        "position": 42
+    },
+    {
+        "planetid": "8f0b9b50-7603-4a4d-ba2f-46fd920832d4",
+        "gameWordlId": "a7a8e27d-f709-42d0-a3db-890259253fe8",
+        "movementDifficulty": 44,
+        "resourceType": "Gold",
+        "position": 43
+    },
+    {
+        "planetid": "a8be0780-4396-4f1b-84fc-3ecbf56f2b5e",
+        "gameWordlId": "17521cb5-f7ac-4d05-a7c0-bb6474cd0f6a",
+        "movementDifficulty": 45,
+        "resourceType": "Kupfer",
+        "position": 44
+    },
+    {
+        "planetid": "02a4cab2-fff1-4e5b-bbd6-e0e86d974359",
+        "gameWordlId": "2c554ac0-f951-4e8a-a6cb-9c0eac051428",
+        "movementDifficulty": 46,
+        "resourceType": "Eisen",
+        "position": 45
+    },
+    {
+        "planetid": "1fa1c594-7aff-4e3c-b113-b81114aec1fe",
+        "gameWordlId": "02b8642b-c4ec-44d0-a445-59ffa3f28cd2",
+        "movementDifficulty": 47,
+        "resourceType": "Silber",
+        "position": 46
+    },
+    {
+        "planetid": "9807d060-2c76-4d3d-b6e3-ffdfdd2069f7",
+        "gameWordlId": "cf39106d-3151-4f90-a8f4-1c0f3f98bf72",
+        "movementDifficulty": 48,
+        "resourceType": "Gold",
+        "position": 47
+    },
+    {
+        "planetid": "a5d9e94c-da1b-4748-bb4f-b507859ea042",
+        "gameWordlId": "0fa79145-c1f9-4c02-bff1-49794daf6dfd",
+        "movementDifficulty": 49,
+        "resourceType": "Silber",
+        "position": 48
+    },
+    {
+        "planetid": "99e979a5-487e-4d51-86fa-6098c3637ffc",
+        "gameWordlId": "52a5fe23-6333-4fff-8f1c-6653d39af8e9",
+        "movementDifficulty": 50,
+        "resourceType": "Gold",
+        "position": 49
+    },
+    {
+        "planetid": "a2a32e61-8b71-41da-a604-d66207a515e2",
+        "gameWordlId": "2828b1a1-1228-4863-846c-d21769f959a0",
+        "movementDifficulty": 51,
+        "resourceType": "Kupfer",
+        "position": 50
+    },
+    {
+        "planetid": "3e61e428-07ee-4f21-8f54-2cee59289acb",
+        "gameWordlId": "7e3021d0-bde1-4898-ad0b-d0f4d8ea5901",
+        "movementDifficulty": 52,
+        "resourceType": "Gold",
+        "position": 51
+    },
+    {
+        "planetid": "99c8d82b-c710-4bed-8df2-bce2e664b695",
+        "gameWordlId": "3253186e-4cca-4a43-8100-af71de3f19af",
+        "movementDifficulty": 53,
+        "resourceType": "Eisen",
+        "position": 52
+    },
+    {
+        "planetid": "71b0013b-f394-426b-ab23-5c44f901f6e2",
+        "gameWordlId": "6b4980ca-d0fc-4cff-8a03-f59984d2d0d1",
+        "movementDifficulty": 54,
+        "resourceType": "Eisen",
+        "position": 53
+    },
+    {
+        "planetid": "f6fefb63-f97d-4ca3-ba44-d857bb185184",
+        "gameWordlId": "7881d3af-e0f0-4f62-9db7-b7116d919a49",
+        "movementDifficulty": 55,
+        "resourceType": "Eisen",
+        "position": 54
+    },
+    {
+        "planetid": "4f7a4815-341b-4477-b943-5d91c8dc3e95",
+        "gameWordlId": "c5f9ea35-14e6-4a90-a134-f794905a136e",
+        "movementDifficulty": 56,
+        "resourceType": "Gold",
+        "position": 55
+    },
+    {
+        "planetid": "b629685c-8f24-49d0-836a-e4cb9efa4b41",
+        "gameWordlId": "a53b6aa6-4e7c-4db0-949b-fa15dfe0edfd",
+        "movementDifficulty": 57,
+        "resourceType": "Gold",
+        "position": 56
+    },
+    {
+        "planetid": "0ba53b94-4540-4280-84b1-3c6693b926a6",
+        "gameWordlId": "6c11591c-9106-4566-a6f5-f516430fc8d0",
+        "movementDifficulty": 58,
+        "resourceType": "Eisen",
+        "position": 57
+    },
+    {
+        "planetid": "a4bd8aa7-ad33-4cb3-a9b2-f355094ed367",
+        "gameWordlId": "50392335-6dd3-4ed1-b0a9-f07e47cd7d6e",
+        "movementDifficulty": 59,
+        "resourceType": "Silber",
+        "position": 58
+    },
+    {
+        "planetid": "bccb1328-785f-48d7-96f3-6afae77461c7",
+        "gameWordlId": "07d80393-3349-471f-9de9-95f3361dd31b",
+        "movementDifficulty": 60,
+        "resourceType": "Silber",
+        "position": 59
+    },
+    {
+        "planetid": "2809df39-431f-4d06-b6c5-af64d0dd40da",
+        "gameWordlId": "bf1cd65d-11a5-476c-a0e8-2b80953b2cb1",
+        "movementDifficulty": 61,
+        "resourceType": "Eisen",
+        "position": 60
+    },
+    {
+        "planetid": "ee69ba59-c8f2-425e-8ec9-d41be582fc96",
+        "gameWordlId": "ca522e86-eb95-4189-bbf8-c880db67df4b",
+        "movementDifficulty": 62,
+        "resourceType": "Kupfer",
+        "position": 61
+    },
+    {
+        "planetid": "921cf59c-fbea-4e4a-bea9-6e1b41fb3b13",
+        "gameWordlId": "9380962f-f13e-468a-8d91-bb1a53cf4c9e",
+        "movementDifficulty": 63,
+        "resourceType": "Silber",
+        "position": 62
+    },
+    {
+        "planetid": "ac94e1b4-5250-432a-9c9c-9f62f77df561",
+        "gameWordlId": "cd988fb1-e0b7-4c91-b488-8ea448c0e97f",
+        "movementDifficulty": 64,
+        "resourceType": "Silber",
+        "position": 63
+    },
+    {
+        "planetid": "26a8d084-8029-4144-9c51-1c47cb764379",
+        "gameWordlId": "2584c697-cfff-48a5-98a5-168d9085c6a9",
+        "movementDifficulty": 65,
+        "resourceType": "Silber",
+        "position": 64
+    },
+    {
+        "planetid": "16baadb1-126f-4c02-a661-c052c60b2e83",
+        "gameWordlId": "639a989b-2274-4e09-8324-87080abbcd8b",
+        "movementDifficulty": 66,
+        "resourceType": "Silber",
+        "position": 65
+    },
+    {
+        "planetid": "54270dde-56d9-4ab8-9662-2df1caa13b78",
+        "gameWordlId": "7caf4cff-6a02-4007-95aa-637b8333e266",
+        "movementDifficulty": 67,
+        "resourceType": "Eisen",
+        "position": 66
+    },
+    {
+        "planetid": "33a9d8b4-e8ff-4ac9-98da-b1defc158006",
+        "gameWordlId": "88339cb2-e472-47d9-8745-d64639c405a9",
+        "movementDifficulty": 68,
+        "resourceType": "Kupfer",
+        "position": 67
+    },
+    {
+        "planetid": "d665e769-14da-4ee5-aacd-1fa759a7ef80",
+        "gameWordlId": "1b2badc4-6fa5-4746-9a3b-5c48e9477158",
+        "movementDifficulty": 69,
+        "resourceType": "Eisen",
+        "position": 68
+    },
+    {
+        "planetid": "da84fed0-06b1-447e-80c2-b9f41687f569",
+        "gameWordlId": "20fbaf11-9470-48c9-8733-8582d1791283",
+        "movementDifficulty": 70,
+        "resourceType": "Gold",
+        "position": 69
+    },
+    {
+        "planetid": "450d3596-7584-48a9-92c6-06204503250a",
+        "gameWordlId": "285fd6ed-92c5-41a7-bc4d-a80370fbf202",
+        "movementDifficulty": 71,
+        "resourceType": "Kupfer",
+        "position": 70
+    },
+    {
+        "planetid": "e262bd94-e1cc-4792-81b2-e1d7f22b6add",
+        "gameWordlId": "bd70ea87-5f29-4dad-a9a8-72f04f5eacf9",
+        "movementDifficulty": 72,
+        "resourceType": "Gold",
+        "position": 71
+    },
+    {
+        "planetid": "51f52530-219d-403d-afb7-d4155ec26874",
+        "gameWordlId": "78f21adf-9bbd-41d4-a2a3-e0bff7f2f5dd",
+        "movementDifficulty": 73,
+        "resourceType": "Silber",
+        "position": 72
+    },
+    {
+        "planetid": "0166c929-4ec7-4f65-8a2e-fef9a818dca3",
+        "gameWordlId": "2acd3689-6818-412c-ad28-110c4c8563f0",
+        "movementDifficulty": 74,
+        "resourceType": "Eisen",
+        "position": 73
+    },
+    {
+        "planetid": "7476b781-9ee4-4f4a-83db-56851fa01cea",
+        "gameWordlId": "711dccee-92d3-4b66-abe1-85db48c4acda",
+        "movementDifficulty": 75,
+        "resourceType": "Gold",
+        "position": 74
+    },
+    {
+        "planetid": "5aed712f-39e2-4099-a6d8-066d3e04d503",
+        "gameWordlId": "19c9207a-7eda-4372-a9c8-7a676cb15f67",
+        "movementDifficulty": 76,
+        "resourceType": "Silber",
+        "position": 75
+    },
+    {
+        "planetid": "e280e48f-b0bc-46b7-a6e9-474a4dccdf40",
+        "gameWordlId": "60d69c41-a930-450b-87b3-282110785031",
+        "movementDifficulty": 77,
+        "resourceType": "Kupfer",
+        "position": 76
+    },
+    {
+        "planetid": "d49786e5-3963-4b85-be65-f231506a17a0",
+        "gameWordlId": "0b829b13-a420-49bb-8805-561bac8d7da9",
+        "movementDifficulty": 78,
+        "resourceType": "Gold",
+        "position": 77
+    },
+    {
+        "planetid": "1f1569a5-b757-4d6d-b17f-ee8f831d1580",
+        "gameWordlId": "701b2a28-fae2-4f5c-9bfd-4ddfb32485b4",
+        "movementDifficulty": 79,
+        "resourceType": "Eisen",
+        "position": 78
+    },
+    {
+        "planetid": "3c3cc90a-041e-44b1-9b40-68dbe94da288",
+        "gameWordlId": "0e96fdb9-0a4f-4baa-b069-f121a12296fb",
+        "movementDifficulty": 80,
+        "resourceType": "Silber",
+        "position": 79
+    },
+    {
+        "planetid": "5e4cce78-e9e9-414d-a46b-b272b9fcc64b",
+        "gameWordlId": "4177bb4c-a4dd-4f61-81f3-a5144906c9df",
+        "movementDifficulty": 81,
+        "resourceType": "Eisen",
+        "position": 80
+    },
+    {
+        "planetid": "e53f2de7-b9ee-439e-a8d7-23cb53dc6bd7",
+        "gameWordlId": "90a41a3f-18ae-4729-9830-f844cb02766d",
+        "movementDifficulty": 82,
+        "resourceType": "Eisen",
+        "position": 81
+    },
+    {
+        "planetid": "b6d41970-7a75-4c2b-bed2-be96189faab8",
+        "gameWordlId": "5ef5ddfe-327f-4100-9ec5-4f5428ba4f7e",
+        "movementDifficulty": 83,
+        "resourceType": "Gold",
+        "position": 82
+    },
+    {
+        "planetid": "118380d6-6696-4930-a4ff-4df42b963200",
+        "gameWordlId": "df573e34-5582-4a73-b85f-bf3f94106e09",
+        "movementDifficulty": 84,
+        "resourceType": "Kupfer",
+        "position": 83
+    },
+    {
+        "planetid": "7da85d77-530d-4948-9bd0-b50fc022d294",
+        "gameWordlId": "8f8b4b9c-49be-47d4-a8d1-e073050754c5",
+        "movementDifficulty": 85,
+        "resourceType": "Silber",
+        "position": 84
+    },
+    {
+        "planetid": "c6c4c546-61e3-4f50-b545-d3b6a28a68cf",
+        "gameWordlId": "bda98859-0957-4034-bc9c-587dcf383ad3",
+        "movementDifficulty": 86,
+        "resourceType": "Silber",
+        "position": 85
+    },
+    {
+        "planetid": "e6a60ad4-c7c1-4eac-97a5-a7d99e7aac34",
+        "gameWordlId": "555da1cb-be27-4be2-8f54-8af3362d80a9",
+        "movementDifficulty": 87,
+        "resourceType": "Silber",
+        "position": 86
+    },
+    {
+        "planetid": "5cc3d558-bb31-416c-bb96-5c9c555c2c8d",
+        "gameWordlId": "6f80d4be-f989-46bf-8f3d-d3b8ccdd8277",
+        "movementDifficulty": 88,
+        "resourceType": "Kupfer",
+        "position": 87
+    },
+    {
+        "planetid": "3a7bce46-e2a5-4c28-8df9-2b00f3314ea6",
+        "gameWordlId": "e85bbaed-1d34-4a4d-9003-eddece8ac99b",
+        "movementDifficulty": 89,
+        "resourceType": "Silber",
+        "position": 88
+    },
+    {
+        "planetid": "ad24435e-ad2c-499e-b4b3-a19ab93325c8",
+        "gameWordlId": "90c78af1-c6e2-4b9a-9d56-65b14b684e20",
+        "movementDifficulty": 90,
+        "resourceType": "Kupfer",
+        "position": 89
+    },
+    {
+        "planetid": "f6ff15bd-d314-4aaa-b757-144caab45251",
+        "gameWordlId": "beb3b116-6fb5-4360-9a43-82d259717edb",
+        "movementDifficulty": 91,
+        "resourceType": "Kupfer",
+        "position": 90
+    },
+    {
+        "planetid": "cde8d38a-5c5b-4500-a8da-68594883edd6",
+        "gameWordlId": "b6cd387e-eaf7-474a-8ec5-2b751fbd8ac5",
+        "movementDifficulty": 92,
+        "resourceType": "Silber",
+        "position": 91
+    },
+    {
+        "planetid": "28167300-a74c-4fd2-8dc7-9253f901ad97",
+        "gameWordlId": "f32d14c4-8aec-47c5-b6f4-1fdcbdb896c7",
+        "movementDifficulty": 93,
+        "resourceType": "Silber",
+        "position": 92
+    },
+    {
+        "planetid": "3c7e922e-0e2c-4e71-836e-63691056e035",
+        "gameWordlId": "225924cd-3560-4e80-a1d2-6e881a222467",
+        "movementDifficulty": 94,
+        "resourceType": "Gold",
+        "position": 93
+    },
+    {
+        "planetid": "92ab818b-a49c-4e90-9ee8-93751b125ab3",
+        "gameWordlId": "e8ba0b0d-9e42-4c7f-a0b3-4a3bc9deadd5",
+        "movementDifficulty": 95,
+        "resourceType": "Gold",
+        "position": 94
+    },
+    {
+        "planetid": "14530979-f373-48c9-aa32-db986f581b62",
+        "gameWordlId": "4ff972e1-896f-4dd2-8cf6-5bb8ef4ad3b8",
+        "movementDifficulty": 96,
+        "resourceType": "Kupfer",
+        "position": 95
+    },
+    {
+        "planetid": "c178faac-d3f3-40f1-8dab-d70b86752cfc",
+        "gameWordlId": "8f443dbc-584d-49ba-9642-55ac3d424c55",
+        "movementDifficulty": 97,
+        "resourceType": "Kupfer",
+        "position": 96
+    },
+    {
+        "planetid": "2e88258f-236a-4577-8599-713c8be00f1e",
+        "gameWordlId": "4dcaa5b1-24dd-47ce-83cd-d8ff147025d0",
+        "movementDifficulty": 98,
+        "resourceType": "Kupfer",
+        "position": 97
+    },
+    {
+        "planetid": "594306fb-835c-475a-8f27-d512531d0e08",
+        "gameWordlId": "6882e88b-7fa7-4cb8-98ed-f7f4b301e087",
+        "movementDifficulty": 99,
+        "resourceType": "Gold",
+        "position": 98
+    },
+    {
+        "planetid": "73fd5cd9-f4c9-4ee3-8c7b-bf2dc9b7f19b",
+        "gameWordlId": "f4b0f742-a5b7-42f0-a2e0-88388e7c7eb6",
+        "movementDifficulty": 100,
+        "resourceType": "Silber",
+        "position": 99
+    },
+    {
+        "planetid": "61675be8-42ec-4612-8ea1-88b679ddecdf",
+        "gameWordlId": "25db7cce-9888-40f3-a164-288ccb1007da",
+        "movementDifficulty": 101,
+        "resourceType": "Gold",
+        "position": 100
+    },
+    {
+        "planetid": "12573920-8319-4384-887d-d862e4f196fe",
+        "gameWordlId": "10440cb4-a895-4e08-91be-16c3b945a58d",
+        "movementDifficulty": 102,
+        "resourceType": "Silber",
+        "position": 101
+    },
+    {
+        "planetid": "3bb7ac56-bb52-4796-ad3d-70b74db19309",
+        "gameWordlId": "7a454a20-b948-4873-834c-09e6a3f0c134",
+        "movementDifficulty": 103,
+        "resourceType": "Gold",
+        "position": 102
+    },
+    {
+        "planetid": "52375c97-901f-4d22-8b85-c8a48fb8fc72",
+        "gameWordlId": "9d031688-95ce-4ff2-94ed-adeb12faa524",
+        "movementDifficulty": 104,
+        "resourceType": "Gold",
+        "position": 103
+    },
+    {
+        "planetid": "fdb1bb79-5745-4abe-bfab-09c00127357e",
+        "gameWordlId": "0a3198c5-5320-4d48-b209-0e0045b75799",
+        "movementDifficulty": 105,
+        "resourceType": "Gold",
+        "position": 104
+    },
+    {
+        "planetid": "c33027ea-5675-4278-8374-8d70d878d67d",
+        "gameWordlId": "abcda625-54c8-4356-a586-29fccd15017a",
+        "movementDifficulty": 106,
+        "resourceType": "Eisen",
+        "position": 105
+    },
+    {
+        "planetid": "11b98b2e-a644-46bd-b56f-05fba5ca44bb",
+        "gameWordlId": "4bbcb6ad-406a-415c-b356-07692b93151f",
+        "movementDifficulty": 107,
+        "resourceType": "Gold",
+        "position": 106
+    },
+    {
+        "planetid": "510fabb1-d5da-419d-881f-8605bd1697fb",
+        "gameWordlId": "33af40e7-e635-452d-9cb9-5069ac44f3c8",
+        "movementDifficulty": 108,
+        "resourceType": "Gold",
+        "position": 107
+    },
+    {
+        "planetid": "b9be6ff2-a065-4ae1-9aba-3ef6d49e4d7e",
+        "gameWordlId": "b41d8eb8-36f4-42d4-93b0-05f636ae847b",
+        "movementDifficulty": 109,
+        "resourceType": "Gold",
+        "position": 108
+    },
+    {
+        "planetid": "ef00937c-0177-4f32-b822-b071f9a5e845",
+        "gameWordlId": "ef6b1477-c7d1-4203-87cf-e7b042a5e5f3",
+        "movementDifficulty": 110,
+        "resourceType": "Silber",
+        "position": 109
+    },
+    {
+        "planetid": "1fd325b3-1fa0-48c0-8398-2285465729fb",
+        "gameWordlId": "ac75fcdb-3674-455d-966b-51bdbdc341ad",
+        "movementDifficulty": 111,
+        "resourceType": "Gold",
+        "position": 110
+    },
+    {
+        "planetid": "2a525828-cacc-432e-8b10-5ba20f7caf85",
+        "gameWordlId": "3f801fcd-cf21-498c-8c22-6da503210115",
+        "movementDifficulty": 112,
+        "resourceType": "Kupfer",
+        "position": 111
+    },
+    {
+        "planetid": "6f5b7074-df8b-49b7-ab1d-e4c307cc352b",
+        "gameWordlId": "a77da341-e3a1-4e89-b952-f8fae093cfa9",
+        "movementDifficulty": 113,
+        "resourceType": "Gold",
+        "position": 112
+    },
+    {
+        "planetid": "7c799cf4-f9e3-4f83-b821-08c5c9e7db1a",
+        "gameWordlId": "35dce42c-a1cc-48a7-86d8-2f91d979f619",
+        "movementDifficulty": 114,
+        "resourceType": "Eisen",
+        "position": 113
+    },
+    {
+        "planetid": "9c38d984-298f-4e1d-8a1e-1e9ecade99ca",
+        "gameWordlId": "b2f09fbe-358a-4917-8e3a-83faf792e78c",
+        "movementDifficulty": 115,
+        "resourceType": "Kupfer",
+        "position": 114
+    },
+    {
+        "planetid": "5273177d-240b-43ee-b02c-810cbe898fba",
+        "gameWordlId": "ce5b49ba-c5e8-4b03-b98b-e193e3833ad8",
+        "movementDifficulty": 116,
+        "resourceType": "Silber",
+        "position": 115
+    },
+    {
+        "planetid": "bfecb511-12ce-4e67-a624-477ee310b377",
+        "gameWordlId": "d2991f39-7ce5-48a4-8931-a08caf6b717c",
+        "movementDifficulty": 117,
+        "resourceType": "Gold",
+        "position": 116
+    },
+    {
+        "planetid": "73097368-cb4e-4c73-a5ef-5647bcf76a15",
+        "gameWordlId": "5ef35c9e-9afa-434f-89a9-ef0cafdbb740",
+        "movementDifficulty": 118,
+        "resourceType": "Silber",
+        "position": 117
+    },
+    {
+        "planetid": "3dbdf18f-83a2-4430-8ddf-3f63351188e0",
+        "gameWordlId": "b2899510-da42-42a3-ac63-5793c8764380",
+        "movementDifficulty": 119,
+        "resourceType": "Gold",
+        "position": 118
+    },
+    {
+        "planetid": "669cdd79-a3c8-499e-aa6f-ec57f71bdcef",
+        "gameWordlId": "af6dda47-2e4a-4806-b769-cab93b1aa150",
+        "movementDifficulty": 120,
+        "resourceType": "Kupfer",
+        "position": 119
+    },
+    {
+        "planetid": "3d9c2a1a-c259-436f-a145-66ac63e64919",
+        "gameWordlId": "04f3a5f2-c22d-47d5-b4e6-7c56f40e774a",
+        "movementDifficulty": 121,
+        "resourceType": "Eisen",
+        "position": 120
+    },
+    {
+        "planetid": "1289df58-015b-41c4-aa8e-fc64f550922b",
+        "gameWordlId": "40fb977e-4597-4550-bfa4-0cc1b214319f",
+        "movementDifficulty": 122,
+        "resourceType": "Gold",
+        "position": 121
+    },
+    {
+        "planetid": "3557448c-ff15-4a1f-8a51-778041649dfd",
+        "gameWordlId": "173d9e16-852c-467a-941b-2f0e0aaa6bb7",
+        "movementDifficulty": 123,
+        "resourceType": "Silber",
+        "position": 122
+    },
+    {
+        "planetid": "9af03e68-c26f-49fc-bf62-72426aeb8264",
+        "gameWordlId": "bdd265f0-5a3a-42d3-9839-eb7ada0d01f1",
+        "movementDifficulty": 124,
+        "resourceType": "Eisen",
+        "position": 123
+    },
+    {
+        "planetid": "bab63da3-182d-4b35-8a87-97a899e1e03c",
+        "gameWordlId": "256fedc3-35f0-497b-b5d7-43cab8665b39",
+        "movementDifficulty": 125,
+        "resourceType": "Kupfer",
+        "position": 124
+    },
+    {
+        "planetid": "f631d497-bd00-4631-8c3a-d7f2dcbfe158",
+        "gameWordlId": "82814635-d2c2-4941-a1c4-0efdb590d244",
+        "movementDifficulty": 126,
+        "resourceType": "Gold",
+        "position": 125
+    },
+    {
+        "planetid": "8b5dde5d-b075-47b5-90c9-3af9c3900e72",
+        "gameWordlId": "2fde8f3f-b9e9-4265-bb67-87110070b184",
+        "movementDifficulty": 127,
+        "resourceType": "Kupfer",
+        "position": 126
+    },
+    {
+        "planetid": "50f69388-7ab2-45c2-962a-40ec90f2f5ab",
+        "gameWordlId": "919ff1cc-ff80-4ff0-af94-fae17efd430f",
+        "movementDifficulty": 128,
+        "resourceType": "Kupfer",
+        "position": 127
+    }
+]

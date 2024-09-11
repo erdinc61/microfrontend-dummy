@@ -1,0 +1,898 @@
+[
+    {
+        "id": "95db89e7-06e3-4f7f-8558-694c235b4d52",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "9c38d984-298f-4e1d-8a1e-1e9ecade99ca",
+        "position": 114
+    },
+    {
+        "id": "92fb79ef-246a-4602-b85b-f2bc094e3ef4",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "9af03e68-c26f-49fc-bf62-72426aeb8264",
+        "position": 123
+    },
+    {
+        "id": "e79a4362-5c78-4970-88be-b4549ddbc585",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "57b7d28b-c498-43aa-b682-1b108dd4b333",
+        "position": 25
+    },
+    {
+        "id": "acc0a234-a4a2-4213-a4ae-b4dbc55b1492",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "fdb1bb79-5745-4abe-bfab-09c00127357e",
+        "position": 104
+    },
+    {
+        "id": "8729cb07-5db3-4a99-bb62-33c66a803ebc",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "02a4cab2-fff1-4e5b-bbd6-e0e86d974359",
+        "position": 45
+    },
+    {
+        "id": "285c522e-486c-443d-a107-ae7aa5a95bab",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "9f92088b-e970-43f3-90db-ed623e668a96",
+        "position": 20
+    },
+    {
+        "id": "dbbe3702-60e9-4c26-883a-d5e084a4012d",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "a19f798b-5386-4939-a8a8-f5df6c2e8ca2",
+        "position": 10
+    },
+    {
+        "id": "fa3fe441-e056-4c77-b834-a6df900c94f4",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "9f92088b-e970-43f3-90db-ed623e668a96",
+        "position": 20
+    },
+    {
+        "id": "314b9fc3-1555-4178-ac77-9023fe9722e3",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "f5b4862e-ee86-413a-b6e2-e7b28722121d",
+        "position": 36
+    },
+    {
+        "id": "6cdf42fc-134d-4426-b809-fe5487fd8543",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "2b98d9cf-c2ff-41be-84e3-ed2353608c2b",
+        "position": 27
+    },
+    {
+        "id": "f364d608-f50c-43a1-967e-5d1e104368b9",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "3e84c350-0ca2-4bd5-bcfb-0af0de0bb66a",
+        "position": 17
+    },
+    {
+        "id": "2db2effc-e460-4399-9a05-6f7a58c17e9d",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "11a1b946-69c5-479f-bd75-1b208c01b56c",
+        "position": 30
+    },
+    {
+        "id": "eddecafd-1a95-4834-8acb-69ef99b3c452",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "02a4cab2-fff1-4e5b-bbd6-e0e86d974359",
+        "position": 45
+    },
+    {
+        "id": "46c4afef-2765-4988-aff2-7528e20c1c0c",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "57b7d28b-c498-43aa-b682-1b108dd4b333",
+        "position": 25
+    },
+    {
+        "id": "4fd864f9-ba77-4582-8146-ddea92d74531",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "510fabb1-d5da-419d-881f-8605bd1697fb",
+        "position": 107
+    },
+    {
+        "id": "d89c25e8-d1d2-44b4-9d18-9843a2720d81",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "28167300-a74c-4fd2-8dc7-9253f901ad97",
+        "position": 92
+    },
+    {
+        "id": "19f20168-b474-4b85-bf8a-aa84f33a14cc",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "89ab2e3e-b650-4c3d-a43f-b323f0f4542c",
+        "position": 3
+    },
+    {
+        "id": "3621419a-b887-4a20-864d-a6a4d39ac763",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "12573920-8319-4384-887d-d862e4f196fe",
+        "position": 101
+    },
+    {
+        "id": "06ae2e7c-a831-439a-a38b-b0be40d2bb31",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "2b98d9cf-c2ff-41be-84e3-ed2353608c2b",
+        "position": 27
+    },
+    {
+        "id": "cefe9a9f-423c-4787-8ff6-f6da3f7b1ea3",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "5b0ce3ef-65e2-4ac1-a611-4799b59cd621",
+        "position": 23
+    },
+    {
+        "id": "9c66b460-8a68-4c04-a5de-18b07bbffc40",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "481053e5-4c45-4b78-ad1d-46ecdccc352b",
+        "position": 24
+    },
+    {
+        "id": "e3bf1623-f8b3-4bfc-a23a-5ea1d483f91b",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "5b0ce3ef-65e2-4ac1-a611-4799b59cd621",
+        "position": 23
+    },
+    {
+        "id": "422bc2fc-f6b3-4fb6-8c14-73efe5ca9cfd",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "3e61e428-07ee-4f21-8f54-2cee59289acb",
+        "position": 51
+    },
+    {
+        "id": "62502694-5675-4166-8925-82531d945740",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "a8265ea5-dafe-4f59-95a4-c6fdf26b25b9",
+        "position": 26
+    },
+    {
+        "id": "3838d828-1289-47af-a1eb-dbfb1b5f61bb",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "b9be6ff2-a065-4ae1-9aba-3ef6d49e4d7e",
+        "position": 108
+    },
+    {
+        "id": "73aa4ff1-a621-4198-8bf0-1b7d667f5604",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "d49786e5-3963-4b85-be65-f231506a17a0",
+        "position": 77
+    },
+    {
+        "id": "eb263274-1b38-4ad6-a794-01a41c5d3bfc",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "1a26128c-2af3-4904-8360-2c0541fdecbf",
+        "position": 32
+    },
+    {
+        "id": "ef7f1b3a-db36-4440-83d1-c12fa208bea1",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "71b0013b-f394-426b-ab23-5c44f901f6e2",
+        "position": 53
+    },
+    {
+        "id": "dd4ea158-0d0f-48d2-a9af-c403548aab3e",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "f6fefb63-f97d-4ca3-ba44-d857bb185184",
+        "position": 54
+    },
+    {
+        "id": "e076887a-90a0-4dae-8efa-6004053ba382",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "3dbdf18f-83a2-4430-8ddf-3f63351188e0",
+        "position": 118
+    },
+    {
+        "id": "f4c5910a-5737-4c01-b925-3e1abace1c70",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "c6c4c546-61e3-4f50-b545-d3b6a28a68cf",
+        "position": 85
+    },
+    {
+        "id": "c7d17a88-c4ae-45e5-9b34-768c2b9d3772",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "3bb7ac56-bb52-4796-ad3d-70b74db19309",
+        "position": 102
+    },
+    {
+        "id": "fd2fff81-095e-4606-9ff7-a55a746aebe1",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "3e16bce3-98db-4146-a0e9-f025980c5f80",
+        "position": 28
+    },
+    {
+        "id": "bcd84437-7c9e-4eb8-bda0-04e58edab790",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "510fabb1-d5da-419d-881f-8605bd1697fb",
+        "position": 107
+    },
+    {
+        "id": "e90554f1-93ec-4cb3-9c1f-730e01d7b7cc",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "5b0ce3ef-65e2-4ac1-a611-4799b59cd621",
+        "position": 23
+    },
+    {
+        "id": "dbf0a19d-30c5-4372-b7e3-708d7d217395",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "ee69ba59-c8f2-425e-8ec9-d41be582fc96",
+        "position": 61
+    },
+    {
+        "id": "4ca60a78-4f94-4449-9b15-ab462f75afa3",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "669cdd79-a3c8-499e-aa6f-ec57f71bdcef",
+        "position": 119
+    },
+    {
+        "id": "5d32af03-2e92-430f-b3a4-631e6ffd2c74",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "ae4642cd-408c-49df-8ca4-1838b37143cf",
+        "position": 2
+    },
+    {
+        "id": "bbc802cb-72df-49af-a1c8-7d40865556cf",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "89ab2e3e-b650-4c3d-a43f-b323f0f4542c",
+        "position": 3
+    },
+    {
+        "id": "dace9746-ac3a-4d5b-8d46-c5b3a378ffb7",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "2e3ab98f-bcea-48f7-a199-c4c7600ef07e",
+        "position": 42
+    },
+    {
+        "id": "9069bbc8-6def-44ab-9bc7-e2eb90bc8b16",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "c6c4c546-61e3-4f50-b545-d3b6a28a68cf",
+        "position": 85
+    },
+    {
+        "id": "6c4dd18e-9035-4afd-9be4-78de2459d9fc",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "d1e99519-6f39-49ad-a135-9bf5a0c22348",
+        "position": 16
+    },
+    {
+        "id": "bc201932-2ff5-497c-adb1-69fe74296cb9",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "0166c929-4ec7-4f65-8a2e-fef9a818dca3",
+        "position": 73
+    },
+    {
+        "id": "2f5b4091-0065-4a42-bb03-1eaa3a1624de",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "2e3ab98f-bcea-48f7-a199-c4c7600ef07e",
+        "position": 42
+    },
+    {
+        "id": "0b3f55f0-b721-4b23-88f3-fc25dbbbcecf",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "3c3cc90a-041e-44b1-9b40-68dbe94da288",
+        "position": 79
+    },
+    {
+        "id": "37a45da1-1a2e-42c9-a1b9-3da305356f07",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "b9be6ff2-a065-4ae1-9aba-3ef6d49e4d7e",
+        "position": 108
+    },
+    {
+        "id": "8b710967-7da6-4bb6-9aad-1659b48c3b98",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "e53f2de7-b9ee-439e-a8d7-23cb53dc6bd7",
+        "position": 81
+    },
+    {
+        "id": "08be73f8-9f30-4e7f-84f6-1cfd34d91b8e",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "bfecb511-12ce-4e67-a624-477ee310b377",
+        "position": 116
+    },
+    {
+        "id": "84ec3c74-f157-4ad9-a641-36f5bddc8566",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "7c799cf4-f9e3-4f83-b821-08c5c9e7db1a",
+        "position": 113
+    },
+    {
+        "id": "7fb04eec-6e18-42e0-ab98-4b6c188f03b8",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "16a34ccf-89d5-4630-91df-51c0ca9cc4fe",
+        "position": 18
+    },
+    {
+        "id": "9fd44ff5-2d45-474a-ac50-433b68c5f576",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "f631d497-bd00-4631-8c3a-d7f2dcbfe158",
+        "position": 125
+    },
+    {
+        "id": "e5d0cc23-0bde-4282-9eae-443862db1c3b",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "ef00937c-0177-4f32-b822-b071f9a5e845",
+        "position": 109
+    },
+    {
+        "id": "a4019c12-fba4-45aa-82fa-3c34ad06f6aa",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "c33027ea-5675-4278-8374-8d70d878d67d",
+        "position": 105
+    },
+    {
+        "id": "e2e545c1-acb3-4d3b-b56d-0c7a943b9f3b",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "52375c97-901f-4d22-8b85-c8a48fb8fc72",
+        "position": 103
+    },
+    {
+        "id": "cc5a3e7f-c99c-4877-8c35-524e052624e3",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "c71ad243-a531-428a-aa8c-f5b19ebf923c",
+        "position": 21
+    },
+    {
+        "id": "cbe1d979-a0ee-48f8-9078-f041d164ce3b",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "8b5dde5d-b075-47b5-90c9-3af9c3900e72",
+        "position": 126
+    },
+    {
+        "id": "c3ffd59d-67d3-478d-adcb-57934a0959ac",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "33a9d8b4-e8ff-4ac9-98da-b1defc158006",
+        "position": 67
+    },
+    {
+        "id": "bf624fbe-bb14-4860-a86b-6e6b17164444",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "91da763e-76a3-44a1-9a6a-92f0c43accfe",
+        "position": 11
+    },
+    {
+        "id": "5d09d6b8-312e-487b-bf24-11aa0b3a26cb",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "3dbdf18f-83a2-4430-8ddf-3f63351188e0",
+        "position": 118
+    },
+    {
+        "id": "16c735db-f626-47f3-a4cd-986d4b2bd35c",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "a31de413-266d-40e6-9ef0-1ff0279af9ef",
+        "position": 37
+    },
+    {
+        "id": "7aeb3005-493e-4e8d-ab83-800f034d1f3a",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "33a9d8b4-e8ff-4ac9-98da-b1defc158006",
+        "position": 67
+    },
+    {
+        "id": "e846321d-713f-4dc1-b7e0-9ca78759e639",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "11a1b946-69c5-479f-bd75-1b208c01b56c",
+        "position": 30
+    },
+    {
+        "id": "54c2b9b4-a658-4a2c-a096-8e76c5d91485",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "16a34ccf-89d5-4630-91df-51c0ca9cc4fe",
+        "position": 18
+    },
+    {
+        "id": "7a432769-251e-461f-9f62-06e7897063cb",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "ac94e1b4-5250-432a-9c9c-9f62f77df561",
+        "position": 63
+    },
+    {
+        "id": "48d59257-b46c-4546-a724-bb8075edaffe",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "16baadb1-126f-4c02-a661-c052c60b2e83",
+        "position": 65
+    },
+    {
+        "id": "febe804b-d998-42f5-951f-71bd926242a3",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "a4bd8aa7-ad33-4cb3-a9b2-f355094ed367",
+        "position": 58
+    },
+    {
+        "id": "209049bc-513a-4517-b8d5-daefd290d0a2",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "54270dde-56d9-4ab8-9662-2df1caa13b78",
+        "position": 66
+    },
+    {
+        "id": "67f19fb7-8952-4fc9-bf42-d6fdf2f78288",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "36f5abd6-626b-4016-a851-52dc90083622",
+        "position": 33
+    },
+    {
+        "id": "e920ddf8-2715-4ce8-8147-bd6eee4b0864",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "a31de413-266d-40e6-9ef0-1ff0279af9ef",
+        "position": 37
+    },
+    {
+        "id": "e08f74c5-73d0-46da-88fb-8ddeed7181f4",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "61675be8-42ec-4612-8ea1-88b679ddecdf",
+        "position": 100
+    },
+    {
+        "id": "86796273-f864-47a2-87b0-5d19bddd52e2",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "ad24435e-ad2c-499e-b4b3-a19ab93325c8",
+        "position": 89
+    },
+    {
+        "id": "4b4d20e7-1e72-4d99-8b80-be1a1ce75d97",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "7da85d77-530d-4948-9bd0-b50fc022d294",
+        "position": 84
+    },
+    {
+        "id": "94cfa95f-c38d-467b-b9bf-def6a0cf894d",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "a31de413-266d-40e6-9ef0-1ff0279af9ef",
+        "position": 37
+    },
+    {
+        "id": "5ad94b94-765c-40ce-b176-68f01c9d1c70",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "a31de413-266d-40e6-9ef0-1ff0279af9ef",
+        "position": 37
+    },
+    {
+        "id": "360fae67-5d75-43ca-b800-899da9a4d068",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "92ab818b-a49c-4e90-9ee8-93751b125ab3",
+        "position": 94
+    },
+    {
+        "id": "29b0bcd8-ad38-4a92-a66e-d927d74990bb",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "2809df39-431f-4d06-b6c5-af64d0dd40da",
+        "position": 60
+    },
+    {
+        "id": "d38d41c2-4c9b-414b-9a8e-9f7bdd9e8289",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "da84fed0-06b1-447e-80c2-b9f41687f569",
+        "position": 69
+    },
+    {
+        "id": "3e08a109-9ffc-49c7-b697-282514bca478",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "e262bd94-e1cc-4792-81b2-e1d7f22b6add",
+        "position": 71
+    },
+    {
+        "id": "6bb71ee0-9c97-4933-b2fd-be461357f376",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "12573920-8319-4384-887d-d862e4f196fe",
+        "position": 101
+    },
+    {
+        "id": "2723ef20-8b10-42c6-ad1d-befe3faa3cb1",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "99c8d82b-c710-4bed-8df2-bce2e664b695",
+        "position": 52
+    },
+    {
+        "id": "4a7b275e-47eb-478e-88ee-8a86d5c369c1",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "02a4cab2-fff1-4e5b-bbd6-e0e86d974359",
+        "position": 45
+    },
+    {
+        "id": "c1d37f2e-c8f6-4b0f-b968-09c07be9f53f",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "3c3cc90a-041e-44b1-9b40-68dbe94da288",
+        "position": 79
+    },
+    {
+        "id": "a2e27f50-0621-4fa7-bbb2-18d96e69426c",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "33a9d8b4-e8ff-4ac9-98da-b1defc158006",
+        "position": 67
+    },
+    {
+        "id": "7bedc531-0970-43c0-83ae-71551584a2fc",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "2e384074-c808-44a3-9c8c-cba43ac7b629",
+        "position": 13
+    },
+    {
+        "id": "8cc3539e-7a83-4785-bbc2-9889e09e6898",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "32aeeff9-2cff-4751-a114-3b392ab77f5a",
+        "position": 40
+    },
+    {
+        "id": "07e755ee-b3af-4d0c-b7b2-2fdd12986ebc",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "e262bd94-e1cc-4792-81b2-e1d7f22b6add",
+        "position": 71
+    },
+    {
+        "id": "473a335f-6d69-4a1c-bf8a-8298dd57e79f",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "c6c4c546-61e3-4f50-b545-d3b6a28a68cf",
+        "position": 85
+    },
+    {
+        "id": "98fbce1c-b119-4a34-8284-2823ea6bee10",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "11a1b946-69c5-479f-bd75-1b208c01b56c",
+        "position": 30
+    },
+    {
+        "id": "e21e6299-59c6-458d-97e0-10da6933108d",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "9ad7972a-45d4-4d32-9efb-3518d81b5e3e",
+        "position": 14
+    },
+    {
+        "id": "85235e7e-2821-4beb-a6b5-e30f8255f6de",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "c178faac-d3f3-40f1-8dab-d70b86752cfc",
+        "position": 96
+    },
+    {
+        "id": "60a22152-bb15-4645-a7cc-71e3c203b18c",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "4e60ab77-6042-4d10-9fe6-8730f6f9b168",
+        "position": 34
+    },
+    {
+        "id": "535278aa-53c4-4804-9ead-ed9a810b0183",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "28167300-a74c-4fd2-8dc7-9253f901ad97",
+        "position": 92
+    },
+    {
+        "id": "2ba01aee-3b58-478b-90e8-ffdc509b4503",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "36f5abd6-626b-4016-a851-52dc90083622",
+        "position": 33
+    },
+    {
+        "id": "1e509fc4-8e80-4f57-8c73-3c998c0dc704",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "da84fed0-06b1-447e-80c2-b9f41687f569",
+        "position": 69
+    },
+    {
+        "id": "e01552d6-dfb9-4dfb-919b-03ac951fb196",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "12573920-8319-4384-887d-d862e4f196fe",
+        "position": 101
+    },
+    {
+        "id": "e3e4fc57-fac3-4b73-b388-094009b58481",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "91da763e-76a3-44a1-9a6a-92f0c43accfe",
+        "position": 11
+    },
+    {
+        "id": "e460d11e-a49e-4db4-bcf1-58c9ee985314",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "dfcf462b-7848-47b3-a643-f494c5e9b97e",
+        "position": 35
+    },
+    {
+        "id": "f608cec6-be58-4e6f-9e84-534147abf275",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "f6fefb63-f97d-4ca3-ba44-d857bb185184",
+        "position": 54
+    },
+    {
+        "id": "44b45472-395c-4650-8b49-12e7b27e2994",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "73097368-cb4e-4c73-a5ef-5647bcf76a15",
+        "position": 117
+    },
+    {
+        "id": "e1f4676f-782e-4cab-8541-935453fcb92b",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "9ad7972a-45d4-4d32-9efb-3518d81b5e3e",
+        "position": 14
+    },
+    {
+        "id": "02974e6b-691f-408b-b42f-84d8c05137fa",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "a4bd8aa7-ad33-4cb3-a9b2-f355094ed367",
+        "position": 58
+    },
+    {
+        "id": "cfe387da-b04f-4212-9c1b-a4761d0c9688",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "2b98d9cf-c2ff-41be-84e3-ed2353608c2b",
+        "position": 27
+    },
+    {
+        "id": "d55130ff-347b-423d-9a5a-fc2c8be2d797",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "5aed712f-39e2-4099-a6d8-066d3e04d503",
+        "position": 75
+    },
+    {
+        "id": "2bfdbedf-9d2f-4c85-8931-28848ddf77af",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "9af03e68-c26f-49fc-bf62-72426aeb8264",
+        "position": 123
+    },
+    {
+        "id": "f2de197c-6f75-4431-9139-7e7c44bd2bd9",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "50f69388-7ab2-45c2-962a-40ec90f2f5ab",
+        "position": 127
+    },
+    {
+        "id": "73f5207e-ce02-41a9-9177-ca3b02e4b609",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "2e384074-c808-44a3-9c8c-cba43ac7b629",
+        "position": 13
+    },
+    {
+        "id": "71e330b8-8604-473c-b960-f7496236b09e",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "c71ad243-a531-428a-aa8c-f5b19ebf923c",
+        "position": 21
+    },
+    {
+        "id": "4169c026-3b18-44f1-b31b-09ebb432692a",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "02a4cab2-fff1-4e5b-bbd6-e0e86d974359",
+        "position": 45
+    },
+    {
+        "id": "7f58f1fc-5314-4d2a-a9e2-51c137d37424",
+        "alive": true,
+        "player": "Sascha",
+        "planetId": "1a26128c-2af3-4904-8360-2c0541fdecbf",
+        "position": 32
+    },
+    {
+        "id": "cc2008cf-1bc1-42e4-b15f-36900a30ffc7",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "9ad7972a-45d4-4d32-9efb-3518d81b5e3e",
+        "position": 14
+    },
+    {
+        "id": "c5aa3935-b6eb-4986-87e4-89bad20c830a",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "9f92088b-e970-43f3-90db-ed623e668a96",
+        "position": 20
+    },
+    {
+        "id": "1fb40f89-e295-423f-9e3b-e59a29dab90b",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "5aed712f-39e2-4099-a6d8-066d3e04d503",
+        "position": 75
+    },
+    {
+        "id": "fcc62b9f-da7b-4722-b7f6-d810ea1c437c",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "a7d6c4c3-7299-433d-b577-2f57b900b4ad",
+        "position": 41
+    },
+    {
+        "id": "7b327b71-fb84-435e-b46f-0b04b025cd44",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "594306fb-835c-475a-8f27-d512531d0e08",
+        "position": 98
+    },
+    {
+        "id": "8a826dd2-afb2-44fa-a077-4d88dfe3a750",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "a7d6c4c3-7299-433d-b577-2f57b900b4ad",
+        "position": 41
+    },
+    {
+        "id": "e8794889-31c3-470d-9fc4-8d6e90c54553",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "a7d6c4c3-7299-433d-b577-2f57b900b4ad",
+        "position": 41
+    },
+    {
+        "id": "49cbcd01-05bb-465d-9651-859cca925f1b",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "9f92088b-e970-43f3-90db-ed623e668a96",
+        "position": 20
+    },
+    {
+        "id": "ed34928a-604c-4b9f-aeaa-3e676741d202",
+        "alive": true,
+        "player": "Ahmed",
+        "planetId": "73097368-cb4e-4c73-a5ef-5647bcf76a15",
+        "position": 117
+    },
+    {
+        "id": "02d69d72-5628-489e-bf8f-3831f969ddf6",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "c71ad243-a531-428a-aa8c-f5b19ebf923c",
+        "position": 21
+    },
+    {
+        "id": "f7a5f077-434b-4fe4-8726-5059b593a9a2",
+        "alive": false,
+        "player": "Ahmed",
+        "planetId": "3a7bce46-e2a5-4c28-8df9-2b00f3314ea6",
+        "position": 88
+    },
+    {
+        "id": "a27aef19-4374-4be7-a85e-c2c9c6f3afd1",
+        "alive": true,
+        "player": "Tom",
+        "planetId": "3e61e428-07ee-4f21-8f54-2cee59289acb",
+        "position": 51
+    },
+    {
+        "id": "33028e22-e5fe-47df-b084-2f995a05845c",
+        "alive": false,
+        "player": "Sascha",
+        "planetId": "c178faac-d3f3-40f1-8dab-d70b86752cfc",
+        "position": 96
+    },
+    {
+        "id": "a8c5ea3d-91e2-4c2d-92fb-d4ae8ccb2ecd",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "594306fb-835c-475a-8f27-d512531d0e08",
+        "position": 98
+    },
+    {
+        "id": "ede103d1-f35f-4875-8a4d-bc2ccaf20132",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "a5d9e94c-da1b-4748-bb4f-b507859ea042",
+        "position": 48
+    },
+    {
+        "id": "be82c567-93d9-4587-903f-e3571851002d",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "54270dde-56d9-4ab8-9662-2df1caa13b78",
+        "position": 66
+    },
+    {
+        "id": "8b507f82-576a-4fd7-8af7-4ac7864f8264",
+        "alive": false,
+        "player": "Tom",
+        "planetId": "510fabb1-d5da-419d-881f-8605bd1697fb",
+        "position": 107
+    },
+    {
+        "id": "6ad01f12-0d9b-4e3f-b3d1-67684dab7891",
+        "alive": true,
+        "player": "Erdinc",
+        "planetId": "7c799cf4-f9e3-4f83-b821-08c5c9e7db1a",
+        "position": 113
+    },
+    {
+        "id": "8bc62f15-f9ca-48c8-9ea7-d222e8ab3ef4",
+        "alive": false,
+        "player": "Erdinc",
+        "planetId": "dcb414b7-c71b-42a6-9b30-c78167c6b850",
+        "position": 15
+    }
+]
